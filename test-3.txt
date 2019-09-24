@@ -1,0 +1,1 @@
+This is file three commit made from branch-3.
